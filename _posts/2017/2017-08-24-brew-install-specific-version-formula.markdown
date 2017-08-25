@@ -1,8 +1,9 @@
 ---
+id: brew-install-specific-version-formula
 layout: post
 title:  使用brew安装指定版本软件
 date:   '2017-08-24 23:44 +0800'
-categories: brew
+permalink: brew-install-specific-version-formula.html
 ---
 
 使用`brew`来安装软件很容易.
