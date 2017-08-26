@@ -30,6 +30,9 @@ plugins:
 minima:
   date_format: "%Y-%m-%d"
 
+google_analytics: UA-105351523-1
+baidu_tongji: d4c0779ff70ac031bfe67da90bbefaeb
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 #header_pages:
