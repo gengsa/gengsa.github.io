@@ -22,6 +22,7 @@ url: "https://gengsa.github.io" # the base hostname & protocol for your site, e.
 github_username:  gengsa
 
 # Build settings
+timezone: '+08:00'
 markdown: kramdown
 theme: minima
 plugins:
@@ -29,6 +30,15 @@ plugins:
 
 minima:
   date_format: "%Y-%m-%d"
+
+# hide some links for jekyll-admin
+jekyll_admin:
+  hidden_links:
+    #- posts
+    #- pages
+    #- staticfiles
+    #- datafiles
+    # - configuration
 
 google_analytics: UA-105351523-1
 baidu_tongji: d4c0779ff70ac031bfe67da90bbefaeb
