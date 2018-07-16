@@ -15,7 +15,7 @@ brew install FORMULA...
 
 有些软件想安装特定版本，比如 `php5.6`：
 
-```
+```bash
 brew install php@5.6
 ```
 
@@ -34,7 +34,7 @@ git reset --hard
 
 接下来就可以查看是否安装正确了：
 
-```
+```bash
 brew info php56-phalcon
 ```
 
