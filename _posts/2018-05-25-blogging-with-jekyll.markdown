@@ -114,3 +114,5 @@ git push -u master
 ```
 
 现在，可以使用浏览器来访问你的博客了 `https://username.github.io`，以后，每次推送到github的时候，都会被自动部署。还可以在项目的setting页面，来指定项目的某个分支作为该项目的 Github Pages 页面。
+
+在升级 ruby 版本后，运行 `jekyll server -D` 时可能报错，执行 `gem pristine --all` 修复即可。

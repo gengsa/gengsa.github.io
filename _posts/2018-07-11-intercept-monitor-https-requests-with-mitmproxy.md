@@ -2,7 +2,7 @@
 id: intercept-monitor-https-request-with-mitmproxy
 layout: post
 title:  使用mitmproxy监听HTTPS请求
-date:   '2018-07-11 18：57 +0800'
+date:   '2018-07-11 18:57 +0800'
 permalink: intercept-monitor-https-request-with-mitmproxy.html
 ---
 
